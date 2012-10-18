@@ -4,6 +4,20 @@
 --  Created by Matt Stofko on 8/27/06.
 --  matt@mjslabs.com
 
+-- COPYRIGHT & LICENSE
+
+-- Copyright 2006 Matt Stofko
+
+-- This program is free software; you can redistribute it and/or
+-- modify it under the terms of either:
+
+-- * the GNU General Public License as published by the Free
+-- Software Foundation; either version 1, or (at your option) any
+-- later version, or
+
+-- * the Artistic License version 2.0.
+
+
 global whichOpen
 
 on clicked theObject
